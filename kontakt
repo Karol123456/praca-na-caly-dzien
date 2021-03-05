@@ -1,0 +1,50 @@
+<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-12 col-md-8 col-lg-6 ">
+                   
+                        <div  class="card border-primary rounded-0">
+                            <div class="card-header p-0">
+                                <div class="czerwonybackground text-white text-center ">
+                                    <div class="przerwa10px"></div>
+                                    <h3><i class="fa fa-envelope"></i> Kontakt</h3>
+                                    <div class="przerwa10px"></div>
+                                </div>
+                            </div>
+                            <div class="card-body p-3">
+
+                             
+                                <div class="form-group">
+                                    <div class="input-group mb-2">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text"><i class="fa fa-user   czerwonaicona"></i></div>
+                                        </div>
+                                        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Name" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="input-group mb-2">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text"><i class="fa fa-envelope  czerwonaicona"></i></div>
+                                        </div>
+                                        <input type="email" class="form-control" id="nombre" name="email" placeholder="@gmail.com" required>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="input-group mb-2">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text"><i class="fa fa-comment  czerwonaicona"></i></div>
+                                        </div>
+                                        <textarea class="form-control" placeholder="Wiadomość" required></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="text-center">
+                                    <input type="submit" value="Wyślij" class="btn btn-info btn-block czerwonybackground ">
+                                </div>
+                            </div>
+
+                        </div>
+                </div>
+	</div>
+</div>

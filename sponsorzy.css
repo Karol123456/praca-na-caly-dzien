@@ -1,0 +1,114 @@
+.main-navbar {
+    width: 100%;
+    min-height: 9vh;
+    background-color: red;
+}
+
+.main-nav-link{
+    color: white;
+    font-size: 17px;
+}
+
+.bialy{
+    color: white;
+}
+
+*{
+    font-family: 'Dosis', sans-serif;
+}
+
+.main-icon-nav{
+    color: white;
+}
+
+.przerwa{
+    height: 150px;
+}
+
+.zielonetlo{
+    
+    width: 100%;
+    height: 550px;
+}
+
+.przerwamala{
+    height: 50px;
+}
+
+.czerwone{
+    color: red;
+    font-size: 55px;
+}
+
+.bialyv2{
+    color: red;
+    font-size: 55px;
+}
+
+.zdjeciepsaglowne{
+    max-width: 100%;
+    height: auto;
+}
+
+.zielonaicona{
+    color: red;
+    font-size: 55px;
+}
+
+.przerwamala2{
+    height: 25px;
+}
+
+.zdjeciazwierzat{
+    width: 250px;
+    height: 250px;
+}
+
+.przerwa20px{
+    height: 20px;
+}
+
+
+.logonavu{
+    color: white;
+    font-size: 24px;
+}
+
+.czerwonetlo{
+    background-color: red;
+    width: 100%;
+    height: 550px;
+    left: 0;
+    right: 0;
+}
+
+.nasi{
+    font-size: 80px;
+    color: black;
+}
+
+.sponsorzy{
+    font-size: 115px;
+}
+
+.zdj{
+    width: 300px;
+}
+
+.przerwa10px{
+    height: 10px;
+}
+
+.czerwonaicona{
+    color: red;
+}
+
+.czerwonybackground{
+    background-color: red;
+}
+
+
+.kontakt{
+    font-size: 90px;
+    color: black;
+}
