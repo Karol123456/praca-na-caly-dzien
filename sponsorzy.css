@@ -112,3 +112,11 @@
     font-size: 90px;
     color: black;
 }
+
+.czcionka{
+    font-family: 'Anton', sans-serif;
+}
+
+.nav-link {
+    color: white !important;
+    }
