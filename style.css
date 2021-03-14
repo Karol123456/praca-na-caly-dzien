@@ -60,11 +60,11 @@
 }
 
 .zdjeciazwierzat{
-    width: 250px;
-    height: 250px;
+    background-size: cover;
     z-index: 1;
     border-radius: 10px;
     border: 2px red solid;
+    max-width: 300px;
 }
 
 .przerwa20px{
