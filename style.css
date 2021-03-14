@@ -62,6 +62,9 @@
 .zdjeciazwierzat{
     width: 250px;
     height: 250px;
+    z-index: 1;
+    border-radius: 10px;
+    border: 2px red solid;
 }
 
 .przerwa20px{
@@ -93,4 +96,41 @@
 
 .nav-link {
     color: white !important;
+    }
+
+    .bordernadole{
+        width: 100%;
+        background-color: red;
+        height: 7vh;
+        left: 0;
+        right: 0;
+        display: flex;
+    }
+
+    .gridmain{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+
+
+
+    .zielonaicona2{
+        color: red;
+        font-size: 25px;
+    }
+
+    .przycisk{
+        border: 1px solid red;
+        width: 90px;
+        height: 50px;
+        background-color: red;
+        
+        border-radius: 10px;
+        margin-left: 20%;
+        margin-bottom: 10px;
+    }
+
+    .tekstwprzycisku{
+        color: white;
+        display: flex;
     }
