@@ -141,3 +141,135 @@
     .bialytekst{
         color: white;
     }
+
+    .main-icon-nav{
+        color: white;
+    }
+    
+    .przerwa{
+        height: 150px;
+    }
+    
+    .zielonetlo{
+        
+        width: 100%;
+        height: 550px;
+    }
+    
+    .przerwamala{
+        height: 50px;
+    }
+    
+    .czerwone{
+        color: red;
+        font-size: 55px;
+    }
+    
+    .bialyv2{
+        color: red;
+        font-size: 55px;
+    }
+    
+    .zdjeciepsaglowne{
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .zielonaicona{
+        color: red;
+        font-size: 55px;
+    }
+    
+    .przerwamala2{
+        height: 25px;
+    }
+    
+    .zdjeciazwierzat{
+        background-size: cover;
+        z-index: 1;
+        border-radius: 10px;
+        border: 2px red solid;
+        max-width: 300px;
+    }
+    
+    .przerwa20px{
+        height: 20px;
+    }
+    
+    
+    .logonavu{
+        color: white;
+        font-size: 24px;
+    }
+    
+    .czerwonetlo{
+        background-color: red;
+        width: 100%;
+        height: 550px;
+        left: 0;
+        right: 0;
+    }
+    
+    .nasi{
+        font-size: 86px;
+        color: white;
+    }
+    
+    .sponsorzy{
+        font-size: 115px;
+    }
+    
+    .nav-link {
+        color: white !important;
+        }
+    
+        .bordernadole{
+            width: 100%;
+            background-color: red;
+            height: 7vh;
+            left: 0;
+            right: 0;
+            display: flex;
+        }
+    
+        .gridmain{
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+        }
+    
+    
+    
+        .zielonaicona2{
+            color: red;
+            font-size: 25px;
+        }
+    
+        .przycisk{
+            border: 1px solid red;
+            width: 90px;
+            height: 50px;
+            background-color: red;
+            
+            border-radius: 10px;
+            margin-left: 20%;
+            margin-bottom: 10px;
+        }
+    
+        .tekstwprzycisku{
+            color: white;
+            display: flex;
+        }
+    
+    
+        .przerwa3{
+            height: 70px;
+        }
+
+        .zdjeciazwierzat{
+            background-size: cover;
+            z-index: 1;
+            border-radius: 10px;
+            border: 2px red solid;
+            max-width: 300px;
+        }
+        
